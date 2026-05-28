@@ -728,12 +728,12 @@
     <div class="tips-grid">
       <div class="tip-card tip-highlight">
         <div class="tip-icon">🧠</div>
-        <h3>Active Recall</h3>
-        <p>After reading a section, close the notes and try to write down everything you remember. This is proven to boost memory retention far more than re-reading.</p>
+        <h3>Do Your Notes</h3>
+        <p>Doing your notes and handouts is CRUCIAL to doing well in science at H.E. Beriault. Do not dissapoint Mr. Chin!</p>
       </div>
       <div class="tip-card">
         <div class="tip-icon">⏱️</div>
-        <h3>Spaced Repetition</h3>
+        <h3>NO CRAMMING</h3>
         <p>Review material multiple times spread out over days rather than cramming the night before. Try this schedule:</p>
         <ul>
           <li>Night after class → quick 10-min review</li>
@@ -744,8 +744,8 @@
       </div>
       <div class="tip-card">
         <div class="tip-icon">📝</div>
-        <h3>Cornell Notes Method</h3>
-        <p>Divide your paper into three sections: a narrow left column for key terms/questions, a wide right column for notes, and a summary box at the bottom. This structure forces you to think critically while you write.</p>
+        <h3>Actually do your flashcards</h3>
+        <p>Though it may seem like a nuisance, doing your flashcards will genuinely help you. Studies show that flashcards force your brain to make an answer from scratch rather than just rereading text, moving concepts from short-term to long-term memory.</p>
       </div>
       <div class="tip-card">
         <div class="tip-icon">🔬</div>
@@ -753,8 +753,7 @@
         <ul>
           <li>Draw and label every diagram you encounter</li>
           <li>Write out formulas with units every time</li>
-          <li>Connect concepts to real-world examples</li>
-          <li>Know the difference between similar terms</li>
+          <li>Know the difference between similar terms (ex. osmosis and diffusion)</li>
           <li>Practice calculations step by step</li>
         </ul>
       </div>
@@ -766,13 +765,13 @@
           <li>Re-read summary sections in your notes</li>
           <li>Write out key vocabulary definitions</li>
           <li>Try explaining concepts out loud</li>
-          <li>Get a full night's sleep — seriously!</li>
+          <li>Get a full night's sleep. If you cram its over bro ngl</li>
         </ul>
       </div>
       <div class="tip-card tip-highlight">
         <div class="tip-icon">🌱</div>
         <h3>Growth Mindset</h3>
-        <p>Every mistake on a practice test is a gift — it shows you exactly what to study next. Science takes curiosity, not just memorization. Stay curious, and the understanding will follow.</p>
+        <p>LOWK NO ONE CARES IF YOU FAIL. Education starts with mistakes. Even though I did pretty well in science, I flunked some tests! I also got -5 on a title page for scientific inaccuracy!</p>
       </div>
     </div>
   </div>
@@ -781,8 +780,8 @@
   <div class="view" id="view-info">
     <h2 class="section-heading">About Chinquest</h2>
     <div class="info-hero">
-      <h2>Your Science Companion 🌿</h2>
-      <p>Chinquest is a student-friendly hub built around the <strong>Science in Action</strong> textbook series. Each grade has five units with four sections each — all with notes and practice tests to help you succeed.</p>
+      <h2>Your Science Companion </h2>
+      <p>Chinquest is a student-made website made by Lowell Saldivar who formerly attended H.E. Beriault from 2023-2026. The website was made in hopes of restoring a very good learning website edquest.ca, hence the name Chinquest. If anything breaks please tell Mr. Chin or email me at reylo0507@yahoo.com.</p>
     </div>
     <div class="info-grid">
       <div class="info-stat">
@@ -814,7 +813,7 @@
       <div class="book-icon">📗</div>
       <div>
         <h3>Science in Action Series</h3>
-        <p>This site is designed as a companion to the Science in Action textbook series used in Alberta schools. PDFs for each section's notes and practice tests are linked to their corresponding pages — just click Notes or Practice Test on any section to open the resource.</p>
+        <p>This site is designed as a companion to the Science in Action textbook series used in Alberta schools. THIS DOES NOT MEAN YOU SHOULD ABANDON YOUR CURRENT NOTES AND FLASHCARDS. THE CURRICULUM IS BOUND TO CHANGE</p>
       </div>
     </div>
     <div style="margin-top: 1.2rem; background: rgba(10,40,15,0.8); border: 1px solid rgba(77,184,102,0.18); border-radius: 14px; padding: 1.5rem 2rem;">
